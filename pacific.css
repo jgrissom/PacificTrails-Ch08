@@ -14,10 +14,7 @@ body {
 header { 
   background-color: #002171; 
   color: #FFFFFF; 
-  height: 120px;
   text-align: center;
-  padding-top: 30px;
-  padding-left: 3em;
 }
 header a {
   text-decoration: none;
