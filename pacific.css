@@ -52,6 +52,9 @@ nav ul {
   padding-left: 0;
   font-size: 1.2em;
 }
+nav li {
+  border-bottom: solid 1px #000033;
+}
 nav a { text-decoration: none; }
 nav a:link { color: #5C7FA3; }
 nav a:visited { color: #344873; }
