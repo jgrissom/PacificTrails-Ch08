@@ -116,4 +116,8 @@ footer {
   nav li { 
     border-bottom: none; 
   }
+  section { 
+    padding-left: 2em;
+    padding-right: 2em; 
+  }
 }
