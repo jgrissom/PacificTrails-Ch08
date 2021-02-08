@@ -120,4 +120,21 @@ footer {
     padding-left: 2em;
     padding-right: 2em; 
   }
+  .content main { 
+    display: grid;  
+    grid-template-rows: auto ; 
+    grid-template-columns: 1fr 1fr 1fr; 
+  }
+  h2 { 
+    grid-row: 1 / 2; grid-column: 1 / 5; 
+  }
+  section { 
+    grid-row: 2 / 3; grid-column: auto; 
+  }
+  #special  { 
+    grid-row: auto; grid-column: 1 / 5; 
+  }
+  footer { 
+    grid-row: auto; grid-column: 1 / 5; 
+  }
 }
