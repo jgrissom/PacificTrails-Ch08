@@ -138,3 +138,11 @@ footer {
     grid-row: auto; grid-column: 1 / 5; 
   }
 }
+
+@media (min-width: 1024px) {
+  nav ul  { 
+    display: flex;
+    flex-flow: column;
+    padding-top: 1em; 
+  }
+}
