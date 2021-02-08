@@ -145,4 +145,8 @@ footer {
     flex-flow: column;
     padding-top: 1em; 
   }
+  nav { 
+    text-align: left;
+    padding-left: 1em;
+  }
 }
