@@ -113,4 +113,7 @@ footer {
     flex-flow: row nowrap;
     justify-content: space-around;
   }
+  nav li { 
+    border-bottom: none; 
+  }
 }
